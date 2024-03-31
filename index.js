@@ -8,6 +8,7 @@ function sayName(){
 }
 
 
-function newFun(){
-    console.log("I am a new Function")
-}
+
+
+
+
